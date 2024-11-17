@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Stock Data Analysis</h1>
 
-<p id="description">Analyze stock data for NIFTY ASIANPAINTS and BAJAJFINSERV to understand price movements volatility and trends using Python. This project includes percent change calculations visualizations and moving average analysis to identify potential patterns in stock behavior..</p>
+<p id="description">Analyze stock data for NIFTY ASIANPAINTS and BAJAJFINSERV to understand price movements volatility and trends using Python. This project includes percent change calculations visualizations and moving average analysis to identify potential patterns in stock behavior.</p>
 
   
   
